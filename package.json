@@ -1,0 +1,16 @@
+{
+    "name": "periodic-table-bingo",
+    "version": "1.0.0",
+    "description": "A Periodic Table Bingo game.",
+    "main": "index.html",
+    "scripts": {
+      "start": "live-server --port=8080"
+    },
+    "dependencies": {
+      "live-server": "^1.2.1"
+    },
+    "devDependencies": {},
+    "author": "KRU DANG",
+    "license": "MIT"
+  }
+  

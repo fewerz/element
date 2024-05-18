@@ -4,12 +4,13 @@
     "description": "A Periodic Table Bingo game.",
     "main": "index.html",
     "scripts": {
-        "start": "live-server --port=8080"
+      "start": "http-server -p 8080"
     },
     "dependencies": {
-        "http-server": "^14.1.1",
-        "live-server": "^1.2.2"
+      "http-server": "^14.0.0"
     },
-    "author": "KRU DANG",
+    "devDependencies": {},
+    "author": "KRUDANG",
     "license": "MIT"
-}
+  }
+  
